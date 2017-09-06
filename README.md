@@ -16,7 +16,7 @@ php composer.phar require --prefer-dist slimic960/yii2-db-rbac "*"
 or add
 
 ```
-"slimic960/yii2-db-rbac": "*"
+"slimic960/yii2-db-rbac": "dev-master"
 ```
 
 to the require section of your `composer.json` file.
