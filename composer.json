@@ -1,0 +1,21 @@
+{
+    "name": "slimic960/yii2-db-rbac",
+    "description": "Расширение RBAC",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dmitriy",
+            "email": "slimic.tver@yandex.ru"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "slimic960\\db_rbac\\": ""
+        }
+    }
+}
